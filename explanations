@@ -13,3 +13,4 @@ Prime Number - A Prime Number can be divided evenly only by 1, or itself. And it
 Swapping without using 3rd Var- Swapping is interchange of the values of the variables. To swap two values without using a 3rd variable, we need to 1st add the two numbers andd store it as the 1st number(a=a+b). The 2nd number is then stored as 2nd number subtracted from 1st number (b=a-b). The 1st number is then stored as the 2nd number subtracted from the 1st number(a=a-b).Let x=10, y=5. x = x + y;  // x now becomes 15 , y = x - y;  // y becomes 10 , x = x - y;  // x becomes 5.
 
 
+Automorphic number -  A number is said to be an automorphic number if it is present in the last digits of its square.
